@@ -235,3 +235,12 @@ nav {
 	text-shadow: 50%;
 
 }
+
+.justificado {
+	display: flex;
+	align-items: center;
+}
+
+.espacioIzq {
+	margin-left: 300px;
+}
